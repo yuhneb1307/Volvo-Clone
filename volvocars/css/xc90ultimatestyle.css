@@ -1,0 +1,12 @@
+.home {
+    max-width: 1920px;
+    margin: auto;
+    width: 100%;
+    min-height: 640px;
+    display: flex;
+    align-items: center;
+    background: url(/img/XC90Ultimate/cover.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center left;
+}
